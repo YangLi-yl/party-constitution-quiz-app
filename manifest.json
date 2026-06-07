@@ -1,0 +1,17 @@
+{
+  "name": "党章考试抽背训练器",
+  "short_name": "党章抽背",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#b42318",
+  "description": "纯前端党章考试刷题与抽背训练器。",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
